@@ -1,4 +1,4 @@
-###onetswitch20
+### onetswitch20
 This repo stores all Getting-Started projects and reference designs for ONetSwitch20.  
 
 All the documents are provided in MeshSr Wiki.  
