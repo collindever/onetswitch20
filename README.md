@@ -11,7 +11,7 @@ Please visit our wiki pages for more information.
 
 ### Building And Running the Examples
 
-These instructions were run with Vivado 2019.2 on an Ubuntu 2019.10 build. Start by cloning this repo to your local computer.
+These instructions were run with Vivado 2019.2 on an Ubuntu 2019.10 build. Block diagram files have been updated to be compatible with Vivado 2019.2 Start by cloning this repo to your local computer.
 
 #### Open Vivado
 
