@@ -8,6 +8,7 @@ Please visit our wiki pages for more information.
 * [Guide for Getting-Started](https://github.com/MeshSr/wiki/wiki/Guide-Getting-Started)  
 * [Guide for Reference Design](https://github.com/MeshSr/wiki/wiki/Guide-Reference-Design)  
 * [Guide for common Workflow](https://github.com/MeshSr/wiki/wiki/Guide-Workflow)  
+* [Hardware Guide ONetSwitch20](https://github.com/MeshSr/ONetSwitch/blob/master/doc/msr-ons20-hwug.pdf)
 
 ### Using the Pre-Built Files
 
