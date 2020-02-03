@@ -9,9 +9,36 @@ Please visit our wiki pages for more information.
 * [Guide for Reference Design](https://github.com/MeshSr/wiki/wiki/Guide-Reference-Design)  
 * [Guide for common Workflow](https://github.com/MeshSr/wiki/wiki/Guide-Workflow)  
 
+### Using the Pre-Built Files
+
+These files were run on a ZEDboard using Vitis 2019.2 on an Ubuntu 2019.10 build.
+
+#### Add Boot to SD Card
+
+Copy the `BOOT.BIN` and `devicetree.dtb` file over to the SD Card. Set the jumper Pins to the follow configuration to boot from the SD Card.
+
+```
+MIO 6: set to GND
+MIO 5: set to 3V3
+MIO 4: set to 3V3
+MIO 3: set to GND
+MIO 2: set to GND
+
+VADJ Select: Set to 1V8
+
+JP6: shorted
+JP2: shorted
+
+All other jumpers should be left unshorted.
+```
+#### Program Bitstream With Vitis
+
+
+
+
 ### Building And Running the Examples
 
-These instructions were run with Vivado 2019.2 on an Ubuntu 2019.10 build. Block diagram files have been updated to be compatible with Vivado 2019.2 Start by cloning this repo to your local computer.
+These files were run with Vivado 2019.2 on an Ubuntu 2019.10 build. Block diagram files have been updated to be compatible with Vivado 2019.2 Start by cloning this repo to your local computer.
 
 #### Open Vivado
 
