@@ -16,7 +16,7 @@ These files were run on a ZEDboard using Vitis 2019.2 on an Ubuntu 2019.10 build
 
 #### Add Boot to SD Card
 
-Copy the `BOOT.BIN` and `devicetree.dtb` file over to the SD Card. Set the jumper Pins to the follow configuration to boot from the SD Card.
+[Follow this Guide](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18841655/Prepare+Boot+Medium) to copy the `BOOT.BIN` file over to the SD Card. Set the jumper Pins to the follow configuration to boot from the SD Card.
 
 ```
 MIO 6: set to GND
