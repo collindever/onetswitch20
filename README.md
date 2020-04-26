@@ -25,7 +25,7 @@ MIO 4: set to 3V3
 MIO 3: set to GND
 MIO 2: set to GND
 
-VADJ Select: Set to 2V5
+VADJ Select: Set to 1V8
 
 JP6: shorted
 JP2: shorted
